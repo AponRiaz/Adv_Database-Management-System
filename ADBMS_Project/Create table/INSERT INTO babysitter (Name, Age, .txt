@@ -1,0 +1,13 @@
+INSERT INTO babysitter (Name, Age, Gender, Email, Address, PhoneNo, Experience)
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);
+VALUES ('John Smith', 25, 'Male', 'johnsmith@example.com', '123 Main St, City', '1234567890', 3);

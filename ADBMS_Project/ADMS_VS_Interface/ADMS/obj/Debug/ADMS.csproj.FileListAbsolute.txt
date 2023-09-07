@@ -1,0 +1,11 @@
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\bin\Debug\ADMS.exe.config
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\bin\Debug\ADMS.exe
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\bin\Debug\ADMS.pdb
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.Form1.resources
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.exe
+C:\Users\Hp\OneDrive\Introduction To Database\ADMS\ADMS\ADMS\obj\Debug\ADMS.pdb

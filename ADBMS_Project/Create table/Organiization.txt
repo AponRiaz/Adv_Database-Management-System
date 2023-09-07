@@ -1,0 +1,16 @@
+Give me sql query for create table in Organization where data is :Organization id/Email/Address/Contact
+
+
+CREATE TABLE Organization (
+    OrganizationID INT PRIMARY KEY,
+    Email VARCHAR(255),
+    Address VARCHAR(255),
+    Contact VARCHAR(20)
+);
+
+
+INSERT INTO Organization (OrganizationID, Email, Address, Contact)
+VALUES 
+    (1, 'example1@example.com', '123 Main St, City1, State1', '123-456-7890'),
+    (2, 'example2@example.com', '456 Main St, City2, State2', '987-654-3210'),
+    (3, 'example3@example.com', '789 Main St, City3, State3', '555-555-5555');

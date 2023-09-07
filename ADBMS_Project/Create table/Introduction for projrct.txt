@@ -1,0 +1,13 @@
+INSERT INTO Parents (FatherName, MotherName, BabyName, NumberOfBaby, Age, Gender, PhoneNumber, Email, Address)
+
+VALUES ('Argho', 'Modhu', 'Madhobi', 1, 7, 'Female', '01734567890', 'argho@example.com', 'kuril');
+VALUES ('Apon', 'Zime', 'Subha', 1, 8, 'Female', '01834567890', 'apon@example.com', 'Kuril');
+VALUES ('Borhan', 'Elma', 'Borsha', 1, 6, 'Female', '0174567890', 'borhan@example.com', 'Basundhara');
+VALUES ('Partha', 'Ahana', 'Lucky', 1, 9, 'Female', '01934567890', 'partha@example.com', 'Badda');
+VALUES ('', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
+VALUES ('John Smith', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
+VALUES ('John Smith', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
+VALUES ('John Smith', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
+VALUES ('John Smith', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
+VALUES ('John Smith', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
+VALUES ('John Smith', 'Emily Johnson', 'Emma', 1, 30, 'Female', '1234567890', 'john.smith@example.com', '123 Main St');
