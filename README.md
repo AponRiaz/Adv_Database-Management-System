@@ -1,2 +1,0 @@
-ADBMS 
-# Babysitter-Management-System
